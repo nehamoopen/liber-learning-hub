@@ -1,0 +1,24 @@
+project:
+  type: book
+  output-dir: ../docs
+
+book:
+  title: "LIBER Learning Hub"
+  author: "LIBER DSLib & DSDCH"
+  date: "31-10-2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - llm.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
