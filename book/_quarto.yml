@@ -9,17 +9,17 @@ book:
   chapters:
     - index.qmd
     - introduction.qmd
-    - part: "LEARNING HUB"
+    - part: "**LEARNING HUB**"
       chapters:
         - llms.qmd
         - automatic-text-transcription.qmd
         - collections-as-data.qmd
-    - part: "ADDITIONAL RESOURCES"
+    - part: "**ADDITIONAL RESOURCES**"
       chapters:
         - competency-frameworks.qmd
         - networks.qmd
         - reports.qmd
-    - part: "ABOUT"
+    - part: "**ABOUT**"
       chapters:
         - acknowledgements.qmd
         - contributing.qmd
