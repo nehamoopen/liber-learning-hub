@@ -1,4 +1,4 @@
-# Understanding Large Language Models through an introduction to ChatGPT
+# Understanding Large Language Models
 
 *A brief introduction to Large Language models (LLMS) by way of ChatGPT,
 this guide will demystify both. Through hands-on activities and case

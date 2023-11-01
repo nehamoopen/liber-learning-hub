@@ -8,17 +8,33 @@ book:
   date: "31-10-2023"
   chapters:
     - index.qmd
-    - intro.qmd
-    - llm.qmd
+    - introduction.qmd
+    - part: "Learning Hub"
+      chapters:
+        - llms.qmd
+        - automatic-text-transcription.qmd
+        - collections-as-data.qmd
+    - part: "Additional Resources"
+      chapters:
+        - competency-frameworks.qmd
+        - networks.qmd
+        - reports.qmd
+    - part: "About"
+      chapters:
+        - acknowledgements.qmd
+        - contributing.qmd
+        - chapter-template.qmd
+        - contact.qmd
     - references.qmd
-
+  repo-url: https://github.com/nehamoopen/liber-learning-hub
+  repo-actions: [edit]
+  sidebar:
+    logo: images/liber-logo.jpeg
+    
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
-
 
 

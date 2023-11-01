@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+Purpose of this guide (ie, A self-guided training resource created by DSDCH and DS in Libraries LIBER working groups to help LIBER staff deepen their understanding of digital scholarship and data science practice in libraries)
+
+## Scope of content 
+
+- What is digital scholarship and data science in the context of this resource?
+- Who is this resource aimed at, what level, etc. (maybe link to our personas somehow)
+- What can users expect to find here (and what will they not?)

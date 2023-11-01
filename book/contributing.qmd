@@ -1,0 +1,3 @@
+# Contributing {.unnumbered}
+
+Refer to the chapter template
