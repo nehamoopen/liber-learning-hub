@@ -9,17 +9,17 @@ book:
   chapters:
     - index.qmd
     - introduction.qmd
-    - part: "Learning Hub"
+    - part: "LEARNING HUB"
       chapters:
         - llms.qmd
         - automatic-text-transcription.qmd
         - collections-as-data.qmd
-    - part: "Additional Resources"
+    - part: "ADDITIONAL RESOURCES"
       chapters:
         - competency-frameworks.qmd
         - networks.qmd
         - reports.qmd
-    - part: "About"
+    - part: "ABOUT"
       chapters:
         - acknowledgements.qmd
         - contributing.qmd
@@ -29,7 +29,7 @@ book:
   repo-url: https://github.com/nehamoopen/liber-learning-hub
   repo-actions: [edit]
   sidebar:
-    logo: images/liber-logo.jpeg
+    logo: images/liber-logo.jpg
     
 bibliography: references.bib
 
