@@ -25,10 +25,10 @@ book:
         - chapter-template.qmd
         - contact.qmd
     - references.qmd
-  repo-url: https://github.com/nehamoopen/liber-learning-hub
-  repo-actions: [edit]
   sidebar:
     logo: images/liber-logo.jpg
+  repo-url: https://github.com/nehamoopen/liber-learning-hub
+  repo-actions: [edit]
   comments: 
     utterances:
       repo: nehamoopen/liber-learning-hub
