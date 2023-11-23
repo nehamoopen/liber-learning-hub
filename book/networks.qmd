@@ -1,3 +1,5 @@
 # Networks {.unnumbered}
 
-Lists of Digital Scholarship/DH/Data Science in Libraries Networks
+- LIBER Data Science in Libraries Working Group
+- LIBER Digital Scholarship & Digital Cultural Heritage Working Group
+- [code4lib](https://code4lib.org/)

@@ -1,13 +1,13 @@
 # Understanding Large Language Models {.unnumbered}
 
-*A brief introduction to Large Language models (LLMS) by way of ChatGPT,
+A brief introduction to Large Language models (LLMS) by way of ChatGPT,
 this guide will demystify both. Through hands-on activities and case
 studies, you'll explore potential challenges and opportunities for the
-use of LLMs and ChatGPT in current and future library services.*
+use of LLMs and ChatGPT in current and future library services.
 
 ## Overview
 
-## **What are Large Language Models (LLMs)?**
+### What are Large Language Models (LLMs)?
 
 A large language model (LLM) is a type of **machine learning model**
 that can perform **natural language processing** tasks such as
@@ -83,7 +83,7 @@ language models out there actually but ChatGPT has currently caught the
 popular imagination because of its publicly available interface and
 remarkable performance.
 
-## **What is ChatGPT?**
+### What is ChatGPT?
 
 ChatGPT is a platform providing an interface specifically to the large
 language models developed by OpenAI. The GPT stands for
@@ -98,7 +98,7 @@ a fancy predictive text generator. You ask questions or give prompts,
 and it provides responses in natural language, or rather, estimates what
 should come next in a conversation.
 
-### What ChatGPT is NOT:
+#### What ChatGPT is NOT:
 
 -   [Google Search Box:]{.underline} Unlike Google, ChatGPT doesn\'t
     search the internet for information. Instead, it generates responses
@@ -120,7 +120,7 @@ should come next in a conversation.
     generates evidently linguistic responses based on patterns it
     learned from text data.
 
-### How ChatGPT Generates Responses:
+#### How ChatGPT Generates Responses:
 
 -   [Language Modelling]{.underline}: So ChatGPT models are members of
     this class of models we're talking about: "large language models"
@@ -170,7 +170,7 @@ should come next in a conversation.
     helps the model get better at generating code that is more likely to
     work.
 
-### When best to use ChatGPT:
+#### When best to use ChatGPT:
 
 -   [Idea Generation]{.underline}: ChatGPT can help brainstorm ideas for
     projects, essays, or creative endeavours. For example, you can ask
@@ -213,9 +213,7 @@ should come next in a conversation.
     connection with the structured data. This is sometimes referred to
     as "function calling" in the ChatGPT literature.
 
-## 
-
-## **Large Language Models (LLM) and ChatGPT Uses in Libraries Today**
+## Large Language Models (LLM) and ChatGPT Uses in Libraries Today
 
 \[Need to work on this section with written examples/more narrative
 around opportunities and challenges\]
@@ -233,7 +231,7 @@ around opportunities and challenges\]
 
 -   [[https://programminghistorian.org/en/lessons/interrogating-national-narrative-gpt]{.underline}](https://gbr01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprogramminghistorian.org%2Fen%2Flessons%2Finterrogating-national-narrative-gpt&data=05%7C01%7C%7C248b64ef15f24804d9f108dbb3b32d6f%7C21a44cb7f9c34f009afabd1e8e88bcd9%7C0%7C0%7C638301354362697282%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Y22gBCRJru2c%2BywzxeWzqk%2F2oJKrXq3MyUQQnezS7F0%3D&reserved=0)
 
-## **Hands On Activity**
+## Hands On Activity
 
 For this activity we'll primarily use the freely available [[ChatGPT
 (openai.com)]{.underline}](https://openai.com/chatgpt) interface. It's
@@ -283,7 +281,7 @@ start a prompt fresh). To learn more about prompting, there is a free
 online course: [[Learn
 Prompting]{.underline}](https://learnprompting.org/).
 
-## **Exploratory activities:**
+### Exploratory activities:
 
 -   Have a play generating responses to some of the below questions (or
     come up with your own)!
@@ -967,8 +965,7 @@ Prompting]{.underline}](https://learnprompting.org/).
 +---------------------+------------------------------------------------+
 | **Guide Element**   | **Description**                                |
 +=====================+================================================+
-| ### **Bas           |                                                |
-| ic Guide Metadata** |                                                |
+| **Basic Guide Metadata** |                                           |
 +---------------------+------------------------------------------------+
 | **Topic title:**    | Understanding Large Language Models through an |
 |                     | introduction to ChatGPT                        |
@@ -1005,8 +1002,7 @@ Prompting]{.underline}](https://learnprompting.org/).
 |                     | ](https://docs.google.com/document/u/0/d/1vSIi |
 |                     | 5WMi7icP6Byeju9UP8tmrnnASXxACOImeRr3wYU/edit)) |
 +---------------------+------------------------------------------------+
-| ### **Gui           |                                                |
-| de Content Blocks** |                                                |
+| **Guide Content Blocks** |                                           |
 +---------------------+------------------------------------------------+
 | **Learning          | *This guide aims to:*                          |
 | objectives**        |                                                |

@@ -3,23 +3,22 @@ project:
   output-dir: ../docs
 
 book:
-  title: "LIBER Learning Hub"
-  author: "LIBER DSLib & DSDCH"
-  date: "31-10-2023"
+  title: "Digital Scholarship & Data Science Essentials for Library Professionals"
+  author: Data Science in Libraries WG<br>Digital Scholarship & Digital Cultural Heritage WG
+  date: last-modified
   chapters:
     - index.qmd
     - introduction.qmd
-    - part: "**LEARNING HUB**"
+    - part: learning-hub.qmd
       chapters:
         - llms.qmd
-        - automatic-text-transcription.qmd
-        - collections-as-data.qmd
-    - part: "**ADDITIONAL RESOURCES**"
+        - lod.qmd
+    - part: "ADDITIONAL RESOURCES"
       chapters:
         - competency-frameworks.qmd
         - networks.qmd
         - reports.qmd
-    - part: "**ABOUT**"
+    - part: "ABOUT"
       chapters:
         - acknowledgements.qmd
         - contributing.qmd
@@ -30,7 +29,10 @@ book:
   repo-actions: [edit]
   sidebar:
     logo: images/liber-logo.jpg
-    
+  comments: 
+    utterances:
+      repo: nehamoopen/liber-learning-hub
+
 bibliography: references.bib
 
 format:

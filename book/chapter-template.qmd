@@ -3,8 +3,7 @@
 +----------------------+-----------------------------------------------+
 | **Guide Element**    | **Description**                               |
 +======================+===============================================+
-| ### **Ba             |                                               |
-| sic Guide Metadata** |                                               |
+| **Basic Guide Metadata** |                                           |
 +----------------------+-----------------------------------------------+
 | **Topic title:**     |                                               |
 +----------------------+-----------------------------------------------+
@@ -62,8 +61,7 @@
 |                      | these on the list of skills categories that   |
 |                      | the WG agrees to?                             |
 +----------------------+-----------------------------------------------+
-| ### **Gu             |                                               |
-| ide Content Blocks** |                                               |
+| **Guide Content Blocks** |                                           |
 +----------------------+-----------------------------------------------+
 | **Learning           | Each guide should have a short list of 3-4    |
 | objectives**         | bullet points indicating what the reader      |

@@ -1,9 +1,9 @@
 # Preface {.unnumbered}
 
-Purpose of this guide (ie, A self-guided training resource created by DSDCH and DS in Libraries LIBER working groups to help LIBER staff deepen their understanding of digital scholarship and data science practice in libraries)
+This is a prototype of a self-guided training resource which is open, online and collaboratively curated. The en goal is learning hub which aims to help librarians who want to develop the skills and the knowledge needed to work with digital collections and with data.
 
-## Scope of content 
+We will present this prototype to participants attending the workshop on _Digital Scholarship & Data Science Essentials for Library Professionals_ at the LIBER Winter Event 2023. It is meant to serve as inspiration and provide a basis for feedback on an ideal learning hub.
 
-- What is digital scholarship and data science in the context of this resource?
-- Who is this resource aimed at, what level, etc. (maybe link to our personas somehow)
-- What can users expect to find here (and what will they not?)
+This 'book' is built with Quarto and hosted on GitHub. It is entirely open(-source) and therefore the community can actively engage with developing and maintaining it. With a bit of extra setup, it would be possible for users to contribute to the book directly on GitHub. All that would be needed is knowledge of Markdown syntax and some familiarity of a typical GitHub workflow via the web browser.
+
+Let us know what you think!
